@@ -1,10 +1,5 @@
-require 'rubygems'
-require 'dalli'
-
 class BotFilterOutput < Fluent::Output
   Fluent::Plugin.register_output('bot_filter', self)
-
-  MC_KEY = 'ip_addresses'
 
   def configure(conf)
     super
@@ -20,22 +15,30 @@ class BotFilterOutput < Fluent::Output
 
   def passFilter(record)
     return true if (!record.has_key?("log") || !record["log"].has_key?("ip_address") || record["log"]["ip_address"].to_s.strip.length < 1)
+    !@blocked_ips.include?(record["log"]["ip_address"]+"\n")  
+  end
 
-    @dc = Dalli::Client.new('localhost:11211', {:namespace => "commerce", :compress => true}) if (defined?(@dc)).nil?
-    if !(blocked_ips = @dc.get(MC_KEY))
-      filters_dir = File.expand_path File.dirname(__FILE__) + "/../filters"
-      blocked_ips = File.open(filters_dir + "/ip_addresses.txt", "rb").read 
-      @dc.set(MC_KEY, blocked_ips)    
+  def get_blocked_ips
+    if (defined?(@blocked_ips)).nil?
+      begin
+        filters_dir = File.expand_path File.dirname(__FILE__) + "/../filters"
+        @blocked_ips = File.open(filters_dir + "/ip_addresses.txt", "rb").read
+      rescue        
+        @blocked_ips = ''
+        return false        
+      end
     end
-    !blocked_ips.include?(record["log"]["ip_address"]+"\n")  
+    return true
   end
 
   def emit(tag, es, chain)
+    if !get_blocked_ips
+      Fluent::Engine.emit("fluentd.warn", Time.now.to_i, {"log" => "The ip_addresses.txt file could not be found"})
+    end
+
     es.each do |time,record|
-      $stderr.puts "Record: " + record.to_s
       next unless passFilter(record)
       Fluent::Engine.emit("filtered", time, record)
-      $stderr.puts "Passed!"
     end
 
     chain.next
