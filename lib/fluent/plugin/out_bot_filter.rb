@@ -62,7 +62,7 @@ class BotFilterOutput < Fluent::Output
       next unless passFilters(record)
       begin 
         # convert invalid post_id's
-        record["log"]["post_id"] = record["log"]["post_id"].to_i if record["log"]["post_id"].to_s.strip.length > 0
+        record["log"]["post_id"] = record["log"]["post_id"].to_i.to_s if record["log"]["post_id"].to_s.strip.length > 0
       rescue
       end
       Fluent::Engine.emit("filtered", time, record)
