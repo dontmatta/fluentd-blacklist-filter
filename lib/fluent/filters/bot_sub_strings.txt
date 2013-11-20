@@ -1,0 +1,1601 @@
+spam bot
+Twitterbot
+NewRelicPinger
+(teradex mapper; mapper@teradex.com; http://www.teradex.com)
+0.1_hseo(at)cs.rutgers.edu
+192directory/ro-bot1.0
+247sitewatch
+4anything.com linkchecker v2.0
+abachobot
+abcdatos botlink/1.0.2 (test links)
+abcdatos_botlink
+abciauditors
+about/0.1libwww-perl/5.47
+accoona
+acoirobot
+acoon robot
+activeagent
+activebookmark
+activeworlds/3.xx (xxx)
+ad muncher
+address rover
+addweb
+admin@maxbot.com
+adnettrack
+adsacomponent (postmaster@cnds.ucd.ie)
+adultseek
+advanced email extractor v2
+aesir
+agadine/1.x.x (+http://www.agada.de)
+agent-admin/ phortse@hanmail.net
+agent-admin/ webmaster@kisco.go.kr
+agentname
+ahoy
+aitcsrobot/1.1
+aladin/3.324
+albert indexer
+AlbertBot
+alchemy eye agent
+alexa.com
+aliweb
+alkalinebot
+allesklar/0.1 libwww-perl/5.46
+alligator
+alphaconnect
+altavista intranet v
+altavista-intranet
+altavista
+ameta
+amfibibot
+amibot
+amiga-aweb/3.4.167se
+ananzi
+andersen consulting
+anonymized by proxyos: http://www.megaproxy.com
+anonymizer/1.1
+answerbus (http://www.answerbus.com/)
+answerchase
+ant fresco
+antfresco/x.xx
+anthill
+antibot
+anzwerscrawl
+aolshop
+apachebench
+aplix
+aport
+appie
+arachnet
+arachnia
+arachnoidea
+arachnophilia
+arale
+araneo
+aranha
+araybot
+aretha
+argus/1.1 (nutch; http://www.simpy.com/bot.html; feedback at simpy dot com)
+ariadne
+arianna.libero.it linux/2.4.9-34smp (linux)
+arks/1.0
+art-online.com 0.9(beta)
+asahina-antenna
+ask jeeves
+ask.24x.info
+aspirateur
+aspseek
+assort/0.10
+asterias
+atn_worldwide
+atomz
+augurbot
+augurfind
+augurnfind v-1.x
+auresys
+auto-proxy downloader
+autoftp
+autohttp
+autonomy
+autoseek
+av fetch 1.0
+avesta agent
+awapclient
+axmorobot
+backrub
+backweb
+badger
+batchftp
+battlebot
+bbn-webbot
+bdfetch
+beats
+becomebot
+beebwaredirectory/v0.01 - http://directory.beebware.co.uk linkchecker
+big brother
+bigbrain
+bigbrother
+BigCliqueBOT
+bigwave libgreg
+bilbo/2.3b-unix
+billbot wjj@cs.cmu.edu
+bimbo
+bingbot
+bingpreview
+biyubi/x.x (sistema fenix; g11; familia toledo; es-mx)
+bizbot
+bjaaland
+black widow
+blackwidow
+blah
+blitzbot@tricus.net
+blogbot
+bmchecker
+bmclient
+boitho.com-dc/0.
+boitho.com-robot/1
+bookmark buddy bookmark checker (http://www.bookmarkbuddy.net/)
+bookmark manager
+bookmark renewal check agent [http://www.bookmark.ne.jp/]
+bordermanager
+borg-bot/0.9
+bot mailto:craftbot@yahoo.com
+botlink
+boxseabot
+bpftp
+bpider
+braillebot 1.0
+brain/3.2
+bravobrian bstop.bravobrian.it
+bruinbot (+http://webarchive.cs.ucla.edu/bruinbot.html)
+bsdseek/
+bstop.bravobrian.it agent detector
+btg's webtool
+buddy
+bullseye
+bumblebee
+bunnyslippers
+buscaplus robi
+buzz
+cal-robot
+calif
+cancer information and support international;
+canon-webrecord
+canseek/
+carnegie_mellon_university
+cartographer
+castanet tuner
+cd34/0.1
+ceramic tile installation guide (http://www.floorstransformed.com)
+cerberiandrtrs/version-3.0-release-24
+cg-eye interactive
+cglconnection
+change detection
+change+detection
+changedetection
+charlotte
+charon/1.x (amiga)
+ia_archiver
+check&get
+checkbot
+checktime
+checkurl
+checkweb
+cherrypicker
+chinaclaw
+cho!
+christcrawler 2.0
+churl
+cipinetbot (http://www.cipinet.com/bot.html)
+citenikbot/
+clariabot/1.0
+claymont.com
+clips-index
+clushbot
+cmc/0.01
+cnet batch harvester
+cnet pma-connect
+cnet_snoop
+coast webmaster
+cognagent
+coldfusion
+collage.cgi/1.82
+combine/0.0
+commerce browser center
+commoonity lambdamoo/1.8.1
+computingsite robi
+conceptbot/0.3
+condenetruntimer
+confuzzledbot
+contentadvisor
+ContextAd Bot
+contype
+coolbot
+copyrightcheck
+cosmos
+cowbot-0.1
+craftbot
+crawl your stuff with http://grub.org
+crawl_application
+crawlconvera0.1 (crawlconvera@yahoo.com)
+crawlconvera0.1 (www.authoritativeweb.com)
+crawler
+crawlpaper
+creativecommons/0.06-dev (nutch; http://www.nutch.org/docs/en/bot.html; nutch-agent@lists.sourceforge.net)
+crescent
+crossword puzzles
+crucial inforation miner
+cs-hkust wise
+cs-hkust-indexserver
+cse html validator
+cshttpclient/1.0b34
+cuam ver0.
+curl/7.
+curryguide sitescan 1.1
+cusco
+cute mp3 and file finder
+cxwebot
+cyber 411
+cyber411
+cyberdog
+cyberjack
+cybermapper
+cyberpilotpro
+cyberspyder
+cybot
+da 3
+da 4
+da 5
+daadle.com robot/
+dart communications powertcp
+database link validator
+datachannel channelmanager
+daviesbot
+daypopbot
+dbdig(http://www.prairielandconsulting.com)
+dbrowse
+dc-sakura/x.xx
+dcsbot/1.1
+ddd
+dds explorer v1.0 beta
+deadlinkcheck/0.4.0 libwww-perl/5
+deepak-usc/isi
+deepindexer.ca
+demo bot dot 16b
+demo bot z 16b
+demobot
+demozulator 1.0 (macos, dmoz url check agent, trebor@animeigo.com)
+desertrealm, desert realm
+desertrealm.com; 0.2; [j];
+desktop news
+desktop sidebar
+detective
+devsoft
+deweb
+dia-test
+diagem/
+dialer 2000
+diamond/1.0
+DiamondBot
+DiceBot
+die blinde kuh
+digger
+digimarc cgireader
+digimarc webreader
+digout4u
+diibot
+direct hit grabber
+disco pump
+disco watchman
+discofinder
+dittospyder
+dlexpert
+dlman
+dloader(naverrobot)/1.0
+dloader(naverrobot)/1.5
+dlw3robot/x.y (in tclx by http://hplyot.obspm.fr/~dl/)
+DMBICrawler1
+dnabot/1.0
+dnfocus_seeder
+dnloadmage 1.0
+docomo/1.0/n504i/c10/tb
+docomo/1.0/nxxxi/c10
+docomo/1.0/p502i/c10 (google chtml proxy/1.0)
+docomo/1.0/p504is/c10/tb
+doctorhtml
+download demon
+download express 1.0
+download master
+download ninja
+download wonder
+download-tipp linkcheck (http://download-tipp.de/)
+download.exe(1.1) (+http://www.sql-und-xml.de/freeware-tools/)
+downloadexpress
+downtown
+dragonbot
+dsurf15a
+dual proxy
+due to a deficiency in java it's not currently possible
+dumbot(version 0.1 beta
+dumrobo(naverrobot)/
+duppies
+dvorak page retrieval
+dwcp
+e-sense 1.0 ea(www.vigiltech.com/esensedisclaim.html)
+e-societyrobot(http://www.yama.info.waseda.ac.jp/~yamana/es/)
+e-zinedatabaseadd
+earthcom.info
+easydl/3.
+ebiness
+ebrowse 1.4b
+ebsco url checker
+ecatch
+echo
+ecollector
+edunet filter analysis
+egothor/3.0a (+http://www.xdefine.org/robot.html)
+egotobot/4.8 (+http://www.egoto.com/about.htm)
+ei*net
+eirgrabber
+eit link verifier
+eit-link-verifier-robot
+eldos timelyweb/3.x
+eleetftp
+elfinbot
+emacs-w3
+excite
+email extractor
+emailcollector
+emailsiphon
+emailwolf
+emc web hopper
+enews creator
+enfish tracker
+esculapio
+esismartspider
+esther
+esurf15a 15
+euripbot
+eventconsole
+evliya celebi v0.151 - http://ilker.ulak.net.tr
+experimentalhenrythemiragorobot
+expired domain sleuth
+express webpictures (www.express-soft.com)
+extractorpro
+eyecatcher (download-tipp.de)/1.0
+ez auto downloader
+ezdeal
+ezinesdatabase
+ezresult
+fairad client
+fast firstpage retriever (compatible; msie 5.5; mozilla/4.0)
+fastbug http://www.ay-up.com
+fast-webcrawler
+favicon finder at http://iconsurf.com/
+favicon monitor at http://iconsurf.com/
+favorg
+favorites sweeper
+fdse
+felix ide
+felixide/1.0
+fetch api request
+fetchapirequest
+ffagenttechnolog
+ffinet
+fgc wwwgrab
+fido/1.0 harvest/1.4.pl2
+filangy-agent@filangy.com)
+finalerobot
+findanisp.com_isp_finder_v99a
+findlinks
+finebot
+firefly/1.0
+firehunter
+firstsbot
+fischer
+fish
+fizzylab
+flashget
+flashnavi
+flashsite
+fletcher
+flickbot
+flipdog
+flunky
+fly
+focusedsampler/1.0
+folio4
+folio_retriever
+fouineur
+france.misesajour.com
+francis/1.0 (francis@neomo.de http://www.neomo.de/)
+franklin locator 1.8
+freecrawl
+freefind
+freeloader
+freshdownload
+fri nov 15 04:51:18 est 2002webcraftboot java/1.4.1_01
+fsurf15a 01
+fulcrumfind webscanner
+full web bot 0416b
+full web bot 0516b
+full web bot 2816b
+funnel web profiler
+funnelweb
+furet
+fusionbot
+gagglebot
+gais robot
+gaisbot
+gamespy_arcade, gamespyhttp/1.0
+garyc.arachnerd
+gatherer/0.9
+gbloogle
+gcreep
+geckobot
+geonabot
+gestalticonoclast/1.0 libwww-fm/2.17
+get_http_file
+getbot
+getrax
+getright
+getsmart
+getterrobo-plus
+geturl
+ghi@lcs.mit.edu
+ghostroutehunter/20021130 (https://www.sixxs.net/tools/grh/; info@sixxs.net)
+gigabot
+girafabot
+gizmo
+gmon
+gnodspider (www.gnod.net)
+gnw-web-stat
+go!zilla
+go-ahead-got-it
+goblin
+gofetch
+golden retriever
+goldfire server
+golem
+golffindit.com
+gomez agent
+gomezagent
+goofer/0.2
+googlebot
+grab-a-site
+grabber
+grabnet
+graphicbrain.com
+gregbot (compatible; msie; windows; q312461)
+griffon
+grigorbot 0.8 (http://www.grigor.biz/bot.html)
+gromit
+grub-client
+GruBot
+gt::www
+guide scrapper
+guidescraper
+gulliver
+gulper
+h?m?h?kki/0.2
+h_robotua
+hamahakki
+hambot
+hammoun
+handclip/1.0
+happybot
+haste/0.12 (home: http://haste.kytoon.com/)
+hatena antenna/0.4 (http://a.hatena.ne.jp/help#robot)
+hatena antenna/0.4 (http://a.hatena.ne.jp/help)
+havindex
+hazel's ferret web hopper,
+hcat
+hdmdhdkki
+headdump
+headend
+heinrichdermiragorobot
+henrythemiragorobot
+hget/0.3
+hgrepurl
+hi (html index)
+hidownload
+hippias/0.9 beta
+hit list
+hitlist
+hku www octopus
+hku www robot,
+hloader
+holmes/x.x
+homerbot: www.homerweb.com
+hotjava
+hotwired
+hotzonu/x.0
+hp openview/network node manager
+hp web printsmart
+hrilspi
+hsmshskki
+htdig
+html link validator
+html_analyzer
+htmlgobble
+htmlparser
+http-library
+http://ask.24x.info/ (http://narres.it/)
+http://www.ciml.co.uk
+http://www.costacider.com/bot/
+http://www.planethosting.com
+http://www.SearchByUsa.com/bot.html
+http://www.sygol.com
+http::lite
+http_load
+httpaccessor
+httpcheck/1.0 (perl 5.006001)
+httpconnect
+httpdown
+httpget
+httpresume
+httptool
+httrack
+hubater
+hyper-decontextualizer
+hyperbee
+hyperrobot
+i robot 0.4 (irobot@chaos.dk)
+i-opener 1.1
+ia_archive
+iaarchiver-1.0
+iagent/1.0
+iajabot
+ibeam
+ibm planetwide
+ibm-spidey
+ibm_network_dispatcher
+ibm_planetwide
+ibot
+ibrowse/2.2 (amigaos 3.5)
+ibrowse/2.2 (windows 3.1)
+icab/2.5.2 (macintosh; i; ppc)
+ichiro/1.0 (ichiro@nttr.co.jp)
+iconoce
+Iceweasel
+iconsurf/2.0 favicon finder (see http://iconsurf.com/robot.html)
+iconsurf/2.0 favicon monitor (see http://iconsurf.com/robot.html)
+icoo loader v.x.x.x
+icsbot-0.1
+icu v1.0
+ideare
+ie30user@
+iefav172free
+ifox98
+igetter
+ilse
+iltrovatore-setaccio
+im4u
+image.kapsi.net
+imagefetch/0.1 libwww-perl/5.66
+incontext's webanalyzer
+incywincy
+indexpert
+industry program 1.0.x
+indy library
+inelabot/0.2 (+http://inelegant.org/bot)
+inet library
+infofly/1.0 (http://www.versions-project.org/)
+infogist
+infolink
+infonavirobot
+inforia quest
+inforian quest
+informant
+inforover
+infoseek
+infostack
+infotray
+ingrid
+InnerpriseBot
+insite
+inspectorwww
+installshield digitalwizard
+intcon
+intelliagent
+intermapper
+internet angel
+internet cruiser robot
+internet ninja
+internetami
+internetlinkagent
+internetperiscope
+internetseer
+inverse ip insight
+investor ticker
+inwebstigator
+ip*works!
+ip3000.com
+ipbot
+ipiumbot laurion(dot)com
+ipswitch_whatsup
+iremember
+iria
+irlbot
+irobot
+iron33
+irvine/1.x.x
+isilo
+ispi
+isurf (tszhu@canada.com)
+j-phone/3.0/j-sh07
+jabot
+jack
+jan.gelin@av.com
+jangoweb libgreg
+java 1.
+Java1.1.3 Bobby
+javabee
+javainternal_build
+javelink
+jazzsoft
+jbh agent 2.0
+jbot
+jdk/1.1
+jdwhatsnew.cgi
+jeeves
+jennybot
+jeode
+jetbot/1.0
+jetcar
+jigsaw/2.2.0 w3c_css_validator_jfouffa/2.0
+jobo
+joebot
+joocerbot
+jpluck/2.0.1
+jrts check favorites utility
+jrtwine software check favorites utility
+jubii
+jumpstation
+just submit
+justpop3
+justview
+jyxobot/x
+k-meleon/0.6 (windows; u; windows nt 5.1; en-us; rv:0.9.5) gecko/20011011
+kapere
+katipo
+kdd-explorer
+kddi-sn22 up.browser/6.0.7 (gui) mmp/1.1 (google wap proxy/1.0)
+ke_1.0/2.0 libwww/5.2.8
+kevin http://dznet.com/kevin/
+kevin http://websitealert.net/kevin/
+keynote
+kgvalidator/1.3 libwww-perl/0.40 kgvalidator
+kilroy
+kit-fireball
+kit_fireball/2.0
+klink
+knowitall
+knowledge engine
+knowledge.com/
+ko_yappo_robot
+kontiki client
+kototoi/0.1
+kuloko-bot
+kulokobot www.kuloko.com kuloko@backweave.com
+kulturarw3/0.1
+label-grabber
+labelgrab/1.1
+lachesis
+lambda linkcheck
+larbin
+lcabotaccept: */*
+lecodechecker/
+leechftp
+leechget
+legs
+leia/
+lexibot
+libertech-rover
+libfetch
+libghttp
+libweb/clshttp -- hiongun@kt.co.kr
+libwww
+lickity_split
+LIFTbot
+lightningdownload
+likse
+limebot/1.0 (+www.cruiselime.com/limebot.php)
+linbot
+lincoln state web browser
+linecker
+link checker 2
+link valet online
+link.alert
+linkalarm
+linkbot
+linkcheck (linkcheck@inter7.com http://www.inter7.com/linkcheck)
+linkchecker
+linkguard
+linkidator
+linklint
+linklooker
+linkman (mozilla...)
+linknzbot
+linkprover
+linkwalker
+lite bot
+LMQueueBot
+localeyes sputnik
+lockon
+logikabot
+look.com
+lookbot
+lotus smartcenter weblotus
+lotus-notes/4.5 ( windows-nt )
+lotusdiscovery
+lwp-trivial
+lwp::simple
+lycos_spider
+lycos - birdlite
+lycos monitoring robot
+lycos/x.x
+lynx/2.6 libwww-fm/2.14
+lynx/2.8.3dev.9 libwww-fm/2.14 ssl-mm/1.4.1 openssl/0.9.6
+lynx/2.8.4rel.1 libwww-fm/2.14 ssl-mm/1.4.1 openssl/0.9.6c (human-guided@lerly.net)
+m/3.8
+mac finder 1.0.xx
+mac wwwworm
+mackster( http://www.ukwizz.com )
+macromedia flash player
+mag-net
+magnifi
+magpie
+Magus Bot
+magus bot 1.0
+mailcast
+mailto:webcraft@bea.com
+major submit
+mammoth/1.0 (+http://www.sli-systems.com/)
+mantraagent
+mapper@teradex.com
+mapuccino
+mariner/5.1b [de] (win95; i ;kolibri gncwebbot)
+marketwave hit list
+markwatch
+martini
+marvin
+mass downloader
+mastercard bytewatcher
+mata hari
+matchlogicautosubmitter
+mattie
+mazingo
+mcbot
+mediafox
+mediapartners-google
+megasheep
+memoweb
+mercator
+merritt
+merzscope
+metabuscador net
+metabustador netlink
+metager-linkchecker
+metagopher
+metaproducts download express
+mfc foundation class library 4.0
+mfc_tear_sample
+microsoft data access internet publishing provider
+microsoft url control
+microsoft-atl-native/7.00
+microsoft_site_analyst
+microsoft_webmapper
+miixpc/4.2
+minebot
+minibot
+miraclealphatest
+mirago
+missauga locate 1.0.0
+missigua locator 1.9
+missouri college browse
+mister pix
+MJ12bot
+mobot
+moget
+mogimogi/1.0
+mojeekbot
+mole2/1.0
+monitor
+monster
+morning paper
+mothra/126-paladium
+motor
+mouse.house/
+movabletype/x.x
+moveannouncer
+moxilla
+mozdex/
+mozi!
+mozilla (mozilla@somewhere.com)
+mozilla/1.1 (compatible; mspie 2.0; windows ce)
+mozilla/2.0 (compatible; ask jeeves)
+mozilla/2.0 (compatible; ezresult -- internet search engine)
+mozilla/2.0 (compatible; ms frontpage 3.0)
+mozilla/2.0 (compatible; ms frontpage 4.0)
+mozilla/2.0 (compatible; newt activex; win32)
+mozilla/2.0 (compatible; t-h-u-n-d-e-r-s-t-o-n-e)
+mozilla/2.0 compatible; check&get 1.1x (windows 98)
+mozilla/3.0 (compatible; fluffy the spider; http://www.searchhippo.com/; info@searchhippo.com)
+mozilla/3.0 (compatible; indy library)
+mozilla/3.0 (compatible; muscatferret/1.
+mozilla/3.0 (compatible; webinator-dev01.home.iprospect.com/2.56)
+mozilla/3.0 (slurp
+mozilla/3.0 (vagabondo/
+mozilla/3.0 gold (win95; i) web site garage
+mozilla/3.01 (compatible; links2go similarity engine)
+mozilla/3.01 (win95; i)
+mozilla/4.0 (compatible; fdse robot)
+mozilla/4.0 (compatible; iplexx spider/1.0, http://www.iplexx.at)
+mozilla/4.0 (compatible; msie 4.01; msiecrawler; windows 95)
+mozilla/4.0 (compatible; msie 4.01; windows nt; ms search 4.0 robot) microsoft
+mozilla/4.0 (compatible; msie 4.0; msiecrawler; windows 95)
+mozilla/4.0 (compatible; msie 4.0; windows nt; site server 3.0 robot) indonesia interactive
+mozilla/4.0 (compatible; msie 4.0; windows nt; site server 3.0 robot) webquest designs
+mozilla/4.0 (compatible; msie 5.01; windows nt 5.0) (samualt9@bigfoot.com)
+mozilla/4.0 (compatible; msie 5.0; windows 95) truerobot;
+mozilla/4.0 (compatible; msie 5.0; windows 95) voilabot; 1.6
+mozilla/4.0 (compatible; msie 5.0; windows nt; digext; dts agent
+mozilla/4.0 (compatible; msie 5.0; windows nt; girafabot; girafabot at girafa dot com; http://www.girafa.com)
+mozilla/4.0 (compatible; msie 5.0; www.galaxy.com; www.psychedelix.com)
+mozilla/4.0 (compatible; msie 5.5; aol 4.0; windows 98; gobeez (www.gobeez.com) )
+mozilla/4.0 (compatible; msie 5.5; windows 98; win 9x 4.90; msiecrawler)
+mozilla/4.0 (compatible; msie 5.5; windows nt 4.0; obot)
+mozilla/4.0 (compatible; msie 5.5; windows nt 4.0; qxw03018)
+mozilla/4.0 (compatible; msie 5.5; windows nt 5.0; asptear 1.5)
+mozilla/4.0 (compatible; msie 5.5; windows nt 5.0; t312461) rpt-httpclient/0.3-3e
+mozilla/4.0 (compatible; msie 6.0; windows nt 5.1) (dns_admin@c-a-s-h.com)
+mozilla/4.0 (compatible; netcraft web server survey)
+mozilla/4.0 (compatible; powermarks/3.5; windows 95/98/2000/nt)
+mozilla/4.0 (compatible; win32; winhttp.winhttprequest.5)
+mozilla/4.0 (compatible; www.galaxy.com)
+mozilla/4.0 (compatible; www.linkguard.com linkguard online 1.0; windows nt)
+mozilla/4.0 (fantom
+mozilla/4.0 (hhjhj@yahoo.com)
+mozilla/4.0 (sleek spider/1.2)
+mozilla/4.0 [en] (ask jeeves corporate spider)
+mozilla/4.0 compatible zyborg/1.0 (zyborg@wisenutbot.com; http://www.wisenutbot.com)
+mozilla/4.0(compatible; zealbot 1.0)
+mozilla/4.04 [de] (win95; i ;kolibri gncwebbot)
+mozilla/4.04 [de] (win95; i ;nav; kolibri gncwebbot)
+mozilla/4.0_(compatible;_msie_5.0;_windows_95)_truerobot/1.4 libwww/5.2.8
+mozilla/4.0_(compatible;_msie_5.0;_windows_95)_voilabot/1.6 libwww/5.3.2
+mozilla/4.5 rpt-httpclient/0.3-2
+mozilla/4.7 (compatible; http://eidetica.com/spider)
+mozilla/4.72 [en] (bacs http://www.ba.be)
+mozilla/4.99 (none of your business)
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
+mozilla/5.0 (research@mediatrec.com)
+mozilla/5.0 (slurp/
+mozilla/5.0 (x11; linux x86_64) applewebkit/537.4 (khtml, like gecko; google web preview) chrome/22.0.1229 safari/537.4
+mozilla/5.0 url-spider
+mozilla/5.0 usww.com-spider-for-w8.net
+mozilla/ispi
+mp3bot
+mr.henderson
+msdn surfbear
+msie 4.0 (win95)
+msn uk fetcher
+msnbot
+msnptc/1.0
+msproxy
+MSRBOT
+multiblocker browser
+multipass
+multitext
+muncher
+muninn
+muscat
+musicwalker2.0 (+http://www.somusical.com)
+myapp/0.1 libwww-perl/5.65
+mybot
+mydaemon
+mygetright
+myownrobot
+myrobot
+mysimon shopping agent
+n/a
+nabot
+namowebeditor
+nationaldirectory
+naughtyrobot
+naverbot
+navroad
+nazilla
+nbot
+ncn-sweeper
+ncn-ultraseek
+ncsa beta 1 (http://vias.ncsa.uiuc.edu/viasarchivinginformation.html)
+nearsite
+nec-hayek/1.0
+nec-meshexplorer
+nederland.zoek
+net vampire
+net.analysis title retriever
+net2one
+netants
+netattach
+netbrief
+netbutler
+netcache
+netcarta cyberpilot pro
+netcarta_cyberpilot
+netcarta_webmapper
+netcaster
+netcomplete/x.xx
+netdelivery
+netengine
+netjet
+netlookout
+netmechanic
+netmind-minder
+netmonitor
+netpim
+netpumper
+netrecorder
+netropa
+netsaint
+netscape-catalog
+netscoop
+netsite
+nettracker
+netzip downloader
+netzippy
+neuralbot/0.2
+newsanchor
+newscan-online
+newsfinder
+newsgator
+newsnow
+newsspace
+newstoyou.com
+newstrove.com
+NextGenSearchBot
+nextools webagent
+ng/1.0
+nhse web forager
+nhsewalker/3.0
+nicerspro
+nico/1.0
+nil
+nitro downloader
+noasurf
+nobody
+nocilla/1.0
+nokia7110/1.0 (05.01) (google wap proxy/1.0)
+none
+northstar
+not available
+npbot
+nttdirectory_robot
+nuk-em/0.01- (radarrange; 1-nibble)
+Nutch
+nutchcvs
+nutscrape
+nwi robot
+nzexplorer
+obidos-bot (just looking for books.)
+ObjectsSearch; http://www.ObjectsSearch.com/bot.html
+occam
+ocelli/1.3 (http://www.globalspec.com/ocelli)
+octopus
+offline
+okware_robot
+oliverperry
+omniagent
+omniexplorer_bot
+online link validator
+ontop
+oohay robot
+open text index
+openbot/
+openfind
+OpenHere.com Bot
+opentext/otwr
+openurl
+opera/5.0 (linux 2.0.38 i386; u) [en]
+opera/5.11 (windows me; u) [ru]
+opera/5.12 (windows 98; u) [en]
+opera/6.x (linux 2.4.8-26mdk i686; u) ﬂ[en]
+opera/6.x (windows nt 4.0; u) [de]
+opera/7.x (windows nt 5.1; u) [en]
+orangebot
+orbitalwebindexer
+oti_robot
+overture services, inc.
+oxxbot1
+pack rat
+packrat
+pageboy
+pagedown
+pagesentry
+pagewatch
+pagmiedownload
+paperboy
+parabot (paracite@ecs.soton.ac.uk)
+parasite
+patric
+patwebbot (http://www.herz-power.de/technik.html)
+pavuk
+pbrowse 1.4b
+pd02_1.0.0 pd02_1.0.0@dzimi@post.sk
+pear http_request class
+peerbot www.peerbot.com
+pegasus
+peregrinator
+perf-trak
+perl-win32::internet/0.082
+perman surfer
+permansurfer
+peval 1.4b
+pfsubmitbot
+pgp key agent
+pgp-ka/1.2
+phantom
+php/
+phpdig
+piltdownman
+pimptrain
+ping plus
+pingalink monitoring services 1.0
+pita
+pizilla++ ver 2.45
+plagiarbot/1.0
+plantynet_webrobot_v1.9 dhkang@plantynet.com
+plucker
+plumtree
+poacher
+pockey-gethtml/x.xx
+pockey/x.x.x
+pockey7.x.x(win32gui)
+pointcast internet fetch agent
+polybot
+pompos
+popdexter/1.0
+poppi/1.0
+popular iconoclast
+pornhunt.net
+portal manager 0.7
+portaljuice.com/4.0
+potbot 1.0
+powerloader
+powermapper
+powermarks
+powernet
+powerup download
+processor
+production bot
+program shareware
+progressive download
+project xp5 [2.03.07-111203]
+proudhon's bot
+prove answerbot 4.0
+prowebguide link checker (http://www.prowebguide.com)
+proxinet
+psbot
+psurf15a
+pubcrawl (pubcrawl.stanford.edu)
+puf/0.91beta6a (linux 2.2.18; i686)
+puresight
+puxarapido
+pverify/1.2
+pws.kiosk - content filtering
+pycurl
+python
+qango.com web directory (http://www.qango.com/)
+qpcreep test rig ( we are not indexing, just testing )
+quepasacreep
+qweerybot
+rabaz (rabaz at gigabaz dot com)
+rabot
+radview/httploader
+radview/webload
+rainbot1.1
+raleighrobot
+rambot xtreme
+rational sitecheck
+raven
+rawiswar/0.1 libwww-perl/5.66
+rbse
+realdownload
+realnamesbot
+redalert
+redirect script for starmadia
+reifier.org (admin@reifier.org)
+reifier.org admin@reifier.org
+repomonkey bait & tackle/v1.01
+resume robot
+rewebber/1.2 libwww-perl/5.41
+rhcs
+rico/0.1
+rixbot
+roach.smo.av.com-1.0
+robbie
+robocrawl
+robofox
+robopal (http://www.findpal.com/)
+robopost
+robot 1.0
+robot du crim 1.0a
+robot francoroute
+robot identifier
+robot-master@expressus.com
+robot-response@openfind.com.tw
+robot@supersnooper.com
+robot@xyleme.com
+robot_test
+robotagent
+robotmidareru/0.7libwww-perl/5.65
+robots.txt
+robozilla
+rocketwriter
+root/0.1
+roster_update
+rotondo/3.1 libwww/5.3.1
+roverbot
+rpt-httpclient
+rssImagesBot
+rsurf15a
+ru-robot
+rules/1.0 libwww/4.0
+rumours-agent
+s.t.a.l.k.e.r.
+safaribookmarkchecker
+safetynet
+sam spade 1.14
+samslapper
+sandbot
+savvysubmit
+sawaalrobo
+SBL-BOT (http://sbl.net)
+scanner
+scanweb
+schmozilla
+science traveller international 1x/1.0
+scooter
+scorebot
+scoutabout
+scoutget
+scrubby
+Searchmain DeepBot
+sebastien.ailleret@inria.fr
+secret agent
+seekandexplore
+seekbot
+seeker.lookseek.com
+selfseek!
+semanticdiscovery
+semiotagger
+senrigan
+servers alive
+seznambot
+sg-scout
+shadow
+shagseeker
+shai'hulud
+shareaza v1.x.x.xx
+sharewareplazafilecheckbot/1.0+(+http://www.sharewareplaza.com)
+sharp-info-agent
+sherlock/1.3 httpget/1.3
+shopper
+shopserve
+sift
+sightquestbot/
+simbot
+simmany
+simpy
+site server
+site valet
+sitebar
+sitecheck.internetseer.com
+sitemap
+sitemechanic
+siterecon+(xx)
+sitescooper
+sitesnagger
+sitesweeper
+sitetech rover
+sitetech-rover
+sitewinder
+sitexpert
+skampy
+skycache
+skymob
+slarp/0.1
+sleipnir version 1.xx
+slowbot
+slurp
+small-bear
+smallbear
+smartdownload
+snoop_spidey_spide
+snooper
+snooprob/x.x
+snoopy_v0.
+snykebot/0.6 (http://www.snyke.com)
+softhypermarketfilecheckbot/1.0+(+http://www.softhypermaket.com)
+softwing_tear_agent
+solbot
+sonera plaza haku
+spacebison
+spanner
+speeddownload
+speedfind rambot xtreme
+speedy
+spida/
+spider
+spike
+spinne
+sproxy
+spry wizard
+spry_mosaic
+spurlbot
+spyder3
+sq webscanner
+squid cache
+squid/1.1.19
+squirrel
+sqworm/2.9
+srobot
+ssurf15a 11
+stackrambler
+stamina/1.4
+star downloader
+starsweeper
+statfetcher
+steeler
+stress
+stuff
+suchbot
+suchknecht.at-robot
+suke
+summit site validator
+sun apr 20 22:00:01 edt 2003webcraftboot java/1.4.2-beta
+suntek/1.0
+super-robot@super.navi.ocn.ne.jp
+superbot
+supercleaner 2.
+supersnooper
+support@canseek.ca
+surfbot
+surferf3 1/0
+surfgopher
+surfmaster
+surfnomore
+surfsaver
+surveybot
+suzuran
+swbot/0.9c libwww/5.3.1
+symantec notify internet session
+System Center Operation Manager
+syncbot
+syncit
+synobot
+szukacz
+tach_bw
+tagword (http://tagword.com/dmoz_survey.php)
+tamu_cs_irl_crawler/1.0
+tarantula
+targetblaster.com/0.9k
+taz
+tcl http client package 1.0
+tcl http client package 2.3
+tcl w3
+teamsoft wininet component
+techbot
+tecor robi
+teleport
+teracrawl
+teradex_mapper
+testur1
+textagent
+textminer
+the expert html source viewer (http://www.expert-html.com)
+the informant
+the internet sleuth
+the intraformant
+TheSuBot
+thesubot-beta-www.thesubot.de
+thesubot/0.1 (www.thesubot.de)
+theswarm
+thu mar 27 18:20:34 cet 2003webcraftboot
+thumbshots-de-bot (version: 1.02, powered by www.thumbshots.de)
+tierra
+timbobot/0.9 http://www.breakingblogs.com/timbo_bot.html
+titan
+titin
+tjvmultihttpgrabber component
+tkensaku
+tkwww
+tocrawl/urldispatcher
+tooter
+top10contactbot
+topiclink
+toutatis
+trademarktracker.com
+transceive
+transgenikbot
+travel-finder
+TravelBot
+trawler
+tricosmetacheck 1.2216-08-1999 (http://www.tricos.com/metacheck)
+true_robot
+tsurf15a 11
+tue apr 15 22:00:03 edt 2003webcraftboot java/1.4.2-beta
+tulipchain
+turboexplorer
+turnitinbot
+turnpike emporium linkchecker/0.1
+tutorgig
+tv<nn>_merc_resh_26_1_d-1.0
+twotrees reactive filter v2.0
+tygobot
+ucmore
+ucsd crawl
+udm
+ukonline
+ultraseek
+UnChaos Bot
+unmozify
+up.browser/3.01-ig01 up.link/3.2.3.4
+updated/0.1beta
+upg1 up/4.0 (compatible; blazer 1.0)
+uptimebot
+url-minder
+urlblaze
+urlcheck
+urlck
+urlgetfile
+useit
+user-agent: fileheap! file downloader (http://www.fileheap.com)
+user-agent: mozilla/4.0 (compatible; sharp-info-agent v1.0; )
+user-agent=mozilla/3.01gold
+user<n>.ip3000.com
+user@domain
+utilmind httpget
+utopia webwasher 3.0
+vagabondo
+valkyrie
+valueclick robocop/0.2b valueclick
+vanillazilla/0.1 libwww-perl/5.69
+various (fakes agent on each access)
+vayala
+vb wininet
+vci webviewer
+vdkwebi
+vemtek
+ventura
+verity
+verticrawl
+verzamelgids.nl - networking4all bot/1.5
+victoria
+viking
+vindex
+visual sciences test agent
+visweb
+vivante link checker
+vizion
+void-bot
+voilabot
+voyager
+vwbot
+w3c-checklink
+w3c-webcon/
+w3c_validator
+w3ccommandline
+w3clinemode
+w3crobot
+w3index
+w3m/0.x.xx
+w3m2
+w3mir
+w3new
+wakano_robot
+wanderer
+wannabe (macintosh; ppc)
+watchfire webxm
+watznew
+wbdbot
+wdg_validator/1.1
+web bot
+web browser intelligence
+web core
+web downloader
+web image collector
+web link validator
+web moose
+web robot pegasus
+web snooper
+web sucker
+web wombat
+Web-Bot
+web.sweep
+web2map
+webauto
+webbandit
+webbanger
+webbe
+webbot
+webbug
+webcapture
+webcatcher
+webcheck
+webclipping.com
+webcollage
+webcompass
+webcopier
+webcopy
+webcraft
+webcrawl
+webdownloader for x 1.30
+webdump
+webdup
+webemailextractor
+webeneezer
+webenhancer
+webex authenticator
+webextractor
+webferret
+webfetch
+webfilter robot
+webfindbot
+webfoot
+webfountain
+webgather
+webhack
+webharvester/
+webhound
+webinator
+webindex
+webjamma
+webjuicer
+webking
+weblayers
+webleacher
+weblicator
+weblink scanner
+weblink's checker/
+weblinker
+webmapper
+webmaster@intags.de
+webmechanic
+webminer/x.x [en] (win98; i)
+webmirror
+webmoose
+webnerd
+webox/0.xx
+webpest
+webpictures downloader
+webpix 1.0 (www.netwu.com)
+webpluck
+webpromote rank this!
+webql
+webquest
+webreaper
+webrefiner
+webretriever
+webrobot
+webs@recruit.co.jp
+websauger 1.20b
+websaver
+webscanner
+webseekrobot
+webseer
+websentry
+webshuttle
+website extractor
+website quester
+website-watcher
+websnake
+websnarf
+websnatcher
+webspector
+webspinne/1.0 webmaster@webspinne.de
+webstat/1.0 (unix; beta; 20040314)
+webstats
+webstripper
+webtamer
+webtopotter
+webtrends
+webtwin
+webvac
+webval/1.0
+webvcr
+webwalk
+webwatch
+webwhacker
+webwilly
+webwombat
+webzinc
+webzip
+west wind web monitor
+wfarc
+wget
+whambot
+whatsnu_link_check_bot
+whatsup
+whatuseek_winona
+whizbang
+whostalking
+whowhere
+Wiedergold/4
+wild ferret web hoppe
+wildsoft surfer
+winampmpeg
+wincersong agent v1.0
+winddance webchallenger
+winona
+winscripter inet tools
+wire news robot
+wire webrefiner
+wired digital
+wired-digital
+wisebot
+wisenut
+wisewire
+wlm
+wobot
+wokorobot
+wolp
+worm
+worqmada/1.0
+wotbox
+wping
+wscbot
+wurlwind
+wusage/x.0@boutell.com
+wwsbot 1.0 [--- http://www.analyzer.nu ---]
+www collector
+www-collector
+www.arianna.it
+www.business-socket.com registry verify/1.x
+www.elsop.com
+www.freeloader.com.
+www.fusionbot.com
+www.inktomi.com/slurp.html
+www.loopimprovements.com/robot.html
+www.pl
+www.webwombat.com.au
+www4mail/2.x libwww-fm/2.14 (unix; i)
+wwwc
+wwweasel robot v1.00 (http://wwweasel.de)
+wwwexplorer
+wwwoffle
+wwwster/1.2 (beta, mailto:gue@cis.uni-muenchen.de)
+wwwwanderer v3.0
+wxwidgets
+x-spyonit/1.1 rpt-httpclient/0.3-2e
+x-tractor
+x-uploader
+xyro_(xcrawler@inria.fr)
+xenu
+Xerka WebBot
+xget
+xpertraknet
+xyro
+y!tunnelpro
+yahoo-fetch
+yahooseeker
+yandex
+yarienavoir.net/0.2
+yeehaw robot
+ync
+YottaCars_Bot
+YottaShopping_Bot
+ytunnelpro
+z-add link checker
+zao
+zbot/1.00 (icaulfield@zeus.com)
+zealbot
+zeus
+ziggy -- the clown from hell!!
+zipppbot/0.11 (zipppbot; http://www.zippp.net; webmaster@zippp.net)
+zippy v2.0 - zippyfinder.com
+ZixyBot
+zodiac client
+zyborg
