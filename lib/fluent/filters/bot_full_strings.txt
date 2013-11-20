@@ -1,3 +1,4 @@
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
 Riddler (http://riddler.io/about.html)
 check_http/v1.4.15 (nagios-plugins 1.4.15)
 Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
