@@ -1,11 +1,14 @@
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
 Riddler (http://riddler.io/about.html)
 check_http/v1.4.15 (nagios-plugins 1.4.15)
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
 Mozilla/5.0 (compatible; Blekkobot; ScoutJet; +http://blekko.com/about/blekkobot)
 Mozilla/5.0 (compatible; Exabot/3.0 (BiggerBetter); +http://www.exabot.com/go/robot)
 Mozilla/5.0 (compatible; Ezooms/1.0; ezooms.bot@gmail.com)
 Mozilla/5.0 (compatible; AhrefsBot/5.0; +http://ahrefs.com/robot/)
 Mozilla/5.0 (compatible; Exabot/3.0; +http://www.exabot.com/go/robot)
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
 Twitterbot/1.0
 Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)
 Wanelo
@@ -36,6 +39,7 @@ Mozilla/5.0 (compatible; spbot/3.1; +http://www.seoprofiler.com/bot )
 Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727) yolinkBot
 Yeti/1.1 (NHN Corp.; http://help.naver.com/robots/)
 AdsBot-Google (+http://www.google.com/adsbot.html)
+msnbot-UDiscovery/2.0b (+http://search.msn.com/msnbot.htm)
 Mozilla/5.0 (compatible; SolomonoBot/1.05; +http://www.solomono.ru)
 Mozilla/5.0 (compatible; uMBot-LN/1.0; mailto: crawling@ubermetrics-technologies.com)
 bitlybot
