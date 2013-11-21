@@ -59,7 +59,11 @@ class BotFilterOutput < Fluent::Output
 
   def emit(tag, es, chain)    
     es.each do |time,record|
-      next unless passFilters(record)
+      if !passFilters(record)
+        Fluent::Engine.emit("bot", time, record)
+        next
+      end      
+      
       begin 
         # convert invalid post_id's
         record["log"]["post_id"] = record["log"]["post_id"].to_i.to_s if record["log"]["post_id"].to_s.strip.length > 0
