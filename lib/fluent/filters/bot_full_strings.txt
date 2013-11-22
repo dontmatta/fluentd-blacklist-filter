@@ -12,6 +12,7 @@ Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
 Twitterbot/1.0
 Pingdom.com_bot_version_1.4_(http://www.pingdom.com/)
 Wanelo
+Slurp
 Wget/1.14 (linux-gnu)
 Pinterest/0.1 +http://pinterest.com/
 facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
